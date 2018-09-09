@@ -1,1 +1,2 @@
-# JsonandAjax
+#ajax和json的学习
+通过这个小小学习，Ajax的基本用法，感受js异步传输的奥妙，也可以了解到json数据的格式转换
